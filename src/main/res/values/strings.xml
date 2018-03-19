@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_01_Button</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_main_web_view">MainActivity_webView</string>
+    <string name="title_activity_main_list_view">MainActivity_listView</string>
+</resources>
